@@ -27,3 +27,35 @@
         <img src="https://img.freepik.com/vector-gratis/instagram-nuevo-icono_1057-2227.jpg" width="50" alt="Instagram Badge" />
     </a>
 </div>
+<div align="left">
+    <h(3>
+            Languages and Tools:</h3>
+    <div>
+        <img sre="htps://github.com/devicons/devicon/blob/master/icons/htm15/htmls-original.svg" title="HTMLS" alt="HTML"
+        width="40" height-"4e"/>8nbsp;
+        <img
+                                                                                                       title-"CSS3" alt="CSS"
+        width="40" height-"4e"/>8nbsp;
+        <img title-"JavaScript"
+        alt="JavaScript" width="40" height="4a"/>8nbsp;
+        <img title="React"
+        alt="React" width="40" height="4e"/>8nbsp;
+        <img title-"Bootstrap"
+        alt="Bootstrap" width="40" height-"4a"/>8nbsp;
+        <img sre="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40"
+        height-"40"/>8nbsp;
+        <img title="MySQL"
+        alt="MySQL" width="40" height-"48"/>8nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git"
+        width="40" height="40"/>
+        <img srcm "https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title-"Git" **alt="Git" width-"40"
+        height="40"/>
+        <img title-"Git" **alt="Git"
+        width="40" height="40"/>
+        <img srcm "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title-"Git" **alt="Git" width="40"
+        height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git"
+        width= "40" height="40"/>
+      </div>
+</div>
+
