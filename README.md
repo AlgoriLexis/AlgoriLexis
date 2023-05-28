@@ -18,10 +18,12 @@
     </div>
 </div>
 <div id="badges" align="center">
+    <h1 align="center">Hi My Account Is : </h1>
     <a href="https://www.freelancer.com.ar/u/g4m3overk1ll" target="_blank">
-        <img src="https://www.freelancer.es/ppic/86385007/logo/24295157/pMekU%2Fprofile_logo_.png" alt="Freelancer Badge" />
+        <img src="https://www.freelancer.es/ppic/86385007/logo/24295157/pMekU%2Fprofile_logo_.png" width="50" alt="Freelancer Badge" />
     </a>
+    <h2 align="center">Hi My Account Is : </h2>
     <a href="https://www.instagram.com/alexisneira12/" target="_blank">
-        <img src="https://img.freepik.com/vector-gratis/instagram-nuevo-icono_1057-2227.jpg" alt="Instagram Badge" />
+        <img src="https://img.freepik.com/vector-gratis/instagram-nuevo-icono_1057-2227.jpg" width="50" alt="Instagram Badge" />
     </a>
 </div>
