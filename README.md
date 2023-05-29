@@ -15,25 +15,17 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-## Badges
+
 <div id="badges" align="center">
     <a href="https://www.freelancer.com.ar/u/g4m3overk1ll" target="_blank">
-        <img src="https://www.freelancer.es/ppic/86385007/logo/24295157/pMekU%2Fprofile_logo_.png" width="50" alt="Freelancer Badge" />
+        <img src="https://www.freelancer.es/ppic/86385007/logo/24295157/pMekU%2Fprofile_logo_.png" width="32px" alt="Freelancer Badge" />
     </a>
     <a href="https://www.instagram.com/alexisneira12/" target="_blank">
-        <img src="https://img.freepik.com/vector-gratis/instagram-nuevo-icono_1057-2227.jpg" width="50" alt="Instagram Badge" />
+        <img src="https://img.freepik.com/vector-gratis/instagram-nuevo-icono_1057-2227.jpg" width="32px" alt="Instagram Badge" />
     </a>
 </div>
-    <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-  </p>
   
   <br/>
-  
-  <!-- Social badges section -->
-  <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-  <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
   <p align="center">
     <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
