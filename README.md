@@ -4,7 +4,7 @@
 
 ##lenguajes
 ___
-<img src="gif1.gif" width="300px" height="250px">
+<img src="gif1.gif" width="200px" height="220px">
 
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
@@ -16,8 +16,6 @@ ___
 
 ## - FreeLance -
 [![Freelancer](https://img.shields.io/twitter/url?label=Freelancer&logo=Freelancer&style=social&url=https%3A%2F%2Fwww.freelancer.com.ar%2Fu%2Fg4m3overk1ll)]() 
-
-<img src="gif2.gif" width="250px" height="200px">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlexisEmanuel&show_icons=true&include_all_commits=true&theme=radical" alt="AlexisEmanuel github stats">
 
