@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="logo.png" width="263px">
+<img src="logo.png" width="263px" height="500px">
 
 ## Programming language
 
@@ -16,11 +16,12 @@
 
 [![Freelancer](https://img.shields.io/twitter/url?label=Freelancer&logo=Freelancer&style=social&url=https%3A%2F%2Fwww.freelancer.com.ar%2Fu%2Fg4m3overk1ll)]() 
 
-<img src="https://github-readme-stats.vercel.app/api?username=bl4ck44&show_icons=true&include_all_commits=true&theme=radical" alt="Alexis Emanuel github stats">
+<img src="https://github-readme-stats.vercel.app/api?username=AlexisEmanuel&show_icons=true&include_all_commits=true&theme=radical" alt="AlexisEmanuel github stats">
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisEmanuel&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true)
 
 </div>
+
 
 
 
