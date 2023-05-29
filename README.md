@@ -4,7 +4,7 @@
 
 <i class="fa-solid fa-code" style="color: #a8009a;"></i>
 
-[Gif1](gif1.gif)
+![Gif1](gif1.gif)
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
 ![C](https://img.shields.io/badge/C-%23e9c241?logo=nim&logoColor=white&style=flat-square)
@@ -15,7 +15,7 @@
 
 ## - FreeLance -
 [![Freelancer](https://img.shields.io/twitter/url?label=Freelancer&logo=Freelancer&style=social&url=https%3A%2F%2Fwww.freelancer.com.ar%2Fu%2Fg4m3overk1ll)]() 
-[Gif2](gif2.gif)
+![Gif2](gif2.gif)
  
 <img src="https://github-readme-stats.vercel.app/api?username=AlexisEmanuel&show_icons=true&include_all_commits=true&theme=radical" alt="AlexisEmanuel github stats">
 
