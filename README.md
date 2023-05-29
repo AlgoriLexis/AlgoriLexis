@@ -18,6 +18,8 @@
 [![Freelancer](https://img.shields.io/twitter/url?label=Freelancer&logo=Freelancer&style=social&url=https%3A%2F%2Fwww.freelancer.com.ar%2Fu%2Fg4m3overk1ll)]() 
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlexisEmanuel&show_icons=true&include_all_commits=true&theme=radical" alt="AlexisEmanuel github stats">
+___
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisEmanuel&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
