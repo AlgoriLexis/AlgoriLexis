@@ -15,10 +15,18 @@
         <img src="logo.png" width="500px" height="263px">
 
         <h3><i class="fa-solid fa-code fa-xs" style="color: #25fb09;"></i> Programming language</h3>
-        <img src="https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/C-%23e9c241?logo=nim&logoColor=white&style=flat-square">
-        <img src="https://img.shields.io/badge/C++-4EAA25?logo=GNU%20C++&logoColor=white&style=flat-square">
+        <a href="https://www.python.org">
+          <img src="https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square">
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+          <img src="https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+          <img src="https://img.shields.io/badge/C-%23e9c241?logo=nim&logoColor=white&style=flat-square">
+        </a>
+        <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+          <img src="https://img.shields.io/badge/C++-4EAA25?logo=GNU%20C++&logoColor=white&style=flat-square">
+        </a>
 
         <h3>Contact Me</h3>
         <a href="https://discord.com/invite/1112563060083789844">
@@ -36,6 +44,7 @@
   </div>
 </body>
 </html>
+
 
 
 
