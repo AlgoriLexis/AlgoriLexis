@@ -11,8 +11,7 @@
 ![C#](https://img.shields.io/badge/Csharp-239120?logo=CSharp&logoColor=white&style=flat-square)
 
 ## Contactame
-
-[[![Discord](https://img.shields.io/discord/1112563060083789844?color=purple&label=Discord&logo=Discord&style=for-the-badge]()]
+(https://img.shields.io/discord/1112563060083789844?color=purple&label=Discord&logo=Discord&style=for-the-badge]()]
 
 [![Freelancer](https://img.shields.io/twitter/url?label=Freelancer&logo=Freelancer&style=social&url=https%3A%2F%2Fwww.freelancer.com.ar%2Fu%2Fg4m3overk1ll)]() 
 
