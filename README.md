@@ -2,7 +2,8 @@
   
 <img src="logo.png" width="500px" height="260px">
 
-<img src="gif1.gif" width="500px" height="210px">
+<img src="gif1.gif" width="500px" height="210px" align="center">
+##
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
 ![C](https://img.shields.io/badge/C-%23e9c241?logo=nim&logoColor=white&style=flat-square)
