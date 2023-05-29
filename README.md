@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/C-%23e9c241?logo=nim&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/C++-4EAA25?logo=GNU%20C++&logoColor=white&style=flat-square">
-    <hr>
     <div align="center">
     <a href="1112563060083789844">
         <img src="https://img.shields.io/discord/1112563060083789844?color=purple&label=Discord&logo=Discord&style=for-the-badge">
