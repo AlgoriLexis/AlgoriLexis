@@ -2,6 +2,7 @@
   
 <img src="logo.png" width="500px" height="263px">
 
+<i class="fa-solid fa-code" style="color: #a8009a;"></i>
 ## Programming language
 
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
