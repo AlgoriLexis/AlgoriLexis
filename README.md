@@ -20,7 +20,6 @@
     <a href="https://www.freelancer.com.ar/u/g4m3overk1ll">
         <img src="https://img.shields.io/twitter/url?label=Freelancer&logo=Freelancer&style=social&url=https%3A%2F%2Fwww.freelancer.com.ar%2Fu%2Fg4m3overk1ll">
     </a>
-    <hr>
 </div>
         <img src="https://github-readme-stats.vercel.app/api?username=AlexisEmanuel&show_icons=true&include_all_commits=true&theme=radical" alt="AlexisEmanuel github stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisEmanuel&hide_progress=true" alt="Top Langs">
