@@ -1,27 +1,34 @@
 <div align="center">
-
-<img src="logo.png" width="450px" height="250px">
-
-<hr>
-
-<img src="gif1.gif" width="700px" height="176px" autoplay>
-
-![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
-![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
-![C](https://img.shields.io/badge/C-%23e9c241?logo=nim&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/C++-4EAA25?logo=GNU%20C++&logoColor=white&style=flat-square)
-
-## Contact Me
-[![Discord](https://img.shields.io/discord/1112563060083789844?color=purple&label=Discord&logo=Discord&style=for-the-badge)](1112563060083789844)
-
-## - FreeLance -
-[![Freelancer](https://img.shields.io/twitter/url?label=Freelancer&logo=Freelancer&style=social&url=https%3A%2F%2Fwww.freelancer.com.ar%2Fu%2Fg4m3overk1ll)]() 
-
-<img src="https://github-readme-stats.vercel.app/api?username=AlexisEmanuel&show_icons=true&include_all_commits=true&theme=radical" alt="AlexisEmanuel github stats">
-___
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisEmanuel&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
+    <img src="logo.png" width="450px" height="250px">
+    <hr>
+    <img src="gif1.gif" width="700px" height="176px" autoplay>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AlexisEmanuel&show_icons=true&include_all_commits=true&theme=radical" alt="AlexisEmanuel github stats">
+    </p>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisEmanuel&hide_progress=true" alt="Top Langs">
+    </p>
 </div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/C-%23e9c241?logo=nim&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/C++-4EAA25?logo=GNU%20C++&logoColor=white&style=flat-square">
+</div>
+
+<div align="center">
+    <a href="1112563060083789844">
+        <img src="https://img.shields.io/discord/1112563060083789844?color=purple&label=Discord&logo=Discord&style=for-the-badge">
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://www.freelancer.com.ar/u/g4m3overk1ll">
+        <img src="https://img.shields.io/twitter/url?label=Freelancer&logo=Freelancer&style=social&url=https%3A%2F%2Fwww.freelancer.com.ar%2Fu%2Fg4m3overk1ll">
+    </a>
+</div>
+
 
 
 
