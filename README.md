@@ -1,7 +1,6 @@
 <div align="center">
-
-<img src="logo.png" width="300px">
-
+  
+<img src="logo.png" width="263px">
 
 ## Programming language
 
@@ -20,7 +19,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=bl4ck44&show_icons=true&include_all_commits=true&theme=radical" alt="Alexis Emanuel github stats">
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisEmanuel&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true)
-  
+
 </div>
 
 
