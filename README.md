@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="logo.png" width="400px" height="260px">
+<img src="logo.png" width="350px" height="250px">
 
 <hr>
 
-<img src="gif1.gif" width="200px" height="220px" autoplay>
+<img src="gif1.gif" width="150px" height="200px" autoplay>
 
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
