@@ -4,7 +4,7 @@
 
 <hr>
 
-<img src="gif1.gif" width="700px" height="100px" autoplay>
+<img src="gif1.gif" width="700px" height="176px" autoplay>
 
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square)
