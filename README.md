@@ -2,7 +2,7 @@
 
 <img src="logo.png" width="500px" height="260px">
 
-##lenguajes
+
 ___
 <img src="gif1.gif" width="200px" height="220px">
 
