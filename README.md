@@ -12,7 +12,7 @@
 
 ## Contactame
 
-[[![Discord](https://img.shields.io/badge/Discord-Bl4ck44%235066-5865f2?style=for-the-badge&logo=discord&logoColor=white)]()](https://img.shields.io/discord/1112563060083789844?color=purple&label=Discord&logo=Discord&style=for-the-badge)
+[[![Discord]([https://img.shields.io/badge/Discord-Bl4ck44%235066-5865f2?](https://img.shields.io/discord/1112563060083789844?color=purple&label=Discord&logo=Discord&style=for-the-badge)style=for-the-badge&logo=discord&logoColor=white)]()]
 
 [![Freelancer](https://img.shields.io/twitter/url?label=Freelancer&logo=Freelancer&style=social&url=https%3A%2F%2Fwww.freelancer.com.ar%2Fu%2Fg4m3overk1ll)]() 
 
