@@ -12,7 +12,7 @@
     </p>
     <div align="center">
         <a href="1112563060083789844">
-            <img src="https://img.shields.io/discord/1112563060083789844?color=purple&label=Discord&logo=Discord&style=for-the-badge">
+            <img src="https://img.shields.io/discord/1112563060083789844?color=purple&label=Chat%20-%3E&logo=Discord">
         </a>
     </div>
     <div align="center">
