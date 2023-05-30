@@ -21,7 +21,7 @@
     <hr>
 </div>
         <img src="https://github-readme-stats.vercel.app/api?username=AlexisEmanuel&show_icons=true&include_all_commits=true&theme=radical" alt="AlexisEmanuel github stats">
-    <img src="stats.png" width="400px" height="200px">
+
         
     
 </div>
