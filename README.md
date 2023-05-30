@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="logo.png" width="450px" height="250px">
+    ![Uploading pro.gif…]()
+    <img src="logo.png" width="200px" height="200px">
     <hr>
     <img src="gif1.gif" width="700px" height="176px" autoplay>
     <p align="center">
