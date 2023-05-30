@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/b16329bd-a8b1-435f-b3b9-1f0c670ffab2" width="300px" height="250px">
-    
+    <div align="center">
     <img src="logo.png" width="300px" height="150px">
     <hr>
     <img src="https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/9a01a7d0-a145-4d63-b586-401143fbc74f" width="700px" height="200px">
