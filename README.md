@@ -1,5 +1,6 @@
 <div align="center">
-    ![Uploading pro.gif…]()
+   ![pro](https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/b16329bd-a8b1-435f-b3b9-1f0c670ffab2)
+    <hr>
     <img src="logo.png" width="200px" height="200px">
     <hr>
     <img src="gif1.gif" width="700px" height="176px" autoplay>
