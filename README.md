@@ -2,7 +2,7 @@
     <img src="https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/b16329bd-a8b1-435f-b3b9-1f0c670ffab2" width="300px" height="250px">
     <img src="logo.png" width="300px" height="150px">
     <hr>
-    <img src="gif1.gif" width="700px" height="176px" autoplay>
+    ![gif1](https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/801e521e-7957-46ed-981c-6bcff5895334)
     <p align="center">
     <img src="https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square">
