@@ -3,7 +3,6 @@
     <hr>
     <img src="gif1.gif" width="700px" height="176px" autoplay>
     <p align="center">
-    <hr>
     <div align="center">
     <img src="https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square">
@@ -20,6 +19,8 @@
         <img src="https://img.shields.io/twitter/url?label=Freelancer&logo=Freelancer&style=social&url=https%3A%2F%2Fwww.freelancer.com.ar%2Fu%2Fg4m3overk1ll">
     </a>
 </div>
+    <hr>
+    
         <img src="https://github-readme-stats.vercel.app/api?username=AlexisEmanuel&show_icons=true&include_all_commits=true&theme=radical" alt="AlexisEmanuel github stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisEmanuel&hide_progress=true" alt="Top Langs">
 
