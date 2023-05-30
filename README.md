@@ -21,9 +21,8 @@
         </a>
     </div>
     <hr>
-<img src="(https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/8239cdec-d1ed-4b58-aac9-f8904e04da20)" width="250px" height="200px">
     <img src="https://github-readme-stats.vercel.app/api?username=AlexisEmanuel&show_icons=true&include_all_commits=true&theme=radical" alt="AlexisEmanuel github stats">
-<img src="(https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/447e245a-105e-4dd6-ba48-c14bfdae4f0d)" width="250px" height="200px">
+
 </div>
 
 
