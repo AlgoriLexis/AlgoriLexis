@@ -1,8 +1,8 @@
 <div align="center">
     <div align="center">
-    <img src="logo.png" width="900px" height="150px">
+    <img src="logo.png" width="850px" height="170px">
     <hr>
-    <img src="https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/b16329bd-a8b1-435f-b3b9-1f0c670ffab2" width="450px" height="250px">
+    <img src="https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/b16329bd-a8b1-435f-b3b9-1f0c670ffab2" width="500px" height="250px">
     <img src="https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/9a01a7d0-a145-4d63-b586-401143fbc74f" width="600px" height="150px">
     <p align="center">
     <img src="https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square">
@@ -21,9 +21,9 @@
         </a>
     </div>
     <hr>
-        <img src="(https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/8239cdec-d1ed-4b58-aac9-f8904e04da20)" width="250px" height="200px">
+<img src="(https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/8239cdec-d1ed-4b58-aac9-f8904e04da20)" width="250px" height="200px">
     <img src="https://github-readme-stats.vercel.app/api?username=AlexisEmanuel&show_icons=true&include_all_commits=true&theme=radical" alt="AlexisEmanuel github stats">
-        <img src="(https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/447e245a-105e-4dd6-ba48-c14bfdae4f0d)" width="250px" height="200px">
+<img src="(https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/447e245a-105e-4dd6-ba48-c14bfdae4f0d)" width="250px" height="200px">
 </div>
 
 
