@@ -12,7 +12,6 @@
     <a href="1112563060083789844">
         <img src="https://img.shields.io/discord/1112563060083789844?color=purple&label=Discord&logo=Discord&style=for-the-badge">
     </a>
-</div>
 
 <div align="center">
     <a href="https://www.freelancer.com.ar/u/g4m3overk1ll">
@@ -20,7 +19,7 @@
     </a>
 </div>
     <hr>
-    
+</div>
         <img src="https://github-readme-stats.vercel.app/api?username=AlexisEmanuel&show_icons=true&include_all_commits=true&theme=radical" alt="AlexisEmanuel github stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisEmanuel&hide_progress=true" alt="Top Langs">
 
