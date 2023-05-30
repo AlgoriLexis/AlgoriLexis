@@ -1,9 +1,9 @@
 <div align="center">
     <div align="center">
-    <img src="logo.png" width="300px" height="150px">
+    <img src="logo.png" width="900px" height="100px">
     <hr>
     <img src="https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/b16329bd-a8b1-435f-b3b9-1f0c670ffab2" width="450px" height="250px">
-    <img src="https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/9a01a7d0-a145-4d63-b586-401143fbc74f" width="600px" height="150px">
+    <img src="https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/9a01a7d0-a145-4d63-b586-401143fbc74f" width="600px" height="100px">
     <p align="center">
     <img src="https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square">
