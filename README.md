@@ -21,7 +21,7 @@
         </a>
     </div>
     <hr>
-    <img src="https://github-readme-stats.vercel.app/api?username=AlgorLexis&show_icons=true&include_all_commits=true&theme=radical" alt="AlgoriLexis github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlgoriLexis&show_icons=true&include_all_commits=true&theme=radical" alt="AlgoriLexis github stats">
 
 </div>
 
