@@ -6,9 +6,9 @@
     <img src="https://github.com/AlexisEmanuel/AlexisEmanuel/assets/131221780/9a01a7d0-a145-4d63-b586-401143fbc74f" width="600px" height="150px">
     <p align="center">
     <img src="https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square">
-    <img src="https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square">
     <img src="https://img.shields.io/badge/C-%23e9c241?logo=nim&logoColor=white&style=flat-square">
-    <img src="https://img.shields.io/badge/C++-4EAA25?logo=GNU%20C++&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square">
+    <img src="https://img.shields.io/badge/C ++-4EAA25?logo=GNU%20C++&logoColor=white&style=flat-square">
     </p>
     <div align="center">
         <a href="1112563060083789844">
@@ -21,7 +21,7 @@
         </a>
     </div>
     <hr>
-    <img src="https://github-readme-stats.vercel.app/api?username=AlgoriLexis&show_icons=true&include_all_commits=true&theme=radical" alt="AlgoriLexis github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlgoriLexis&show_icons=true&include_all_commits=true&theme=radical" alt="AlgoriLexz github stats">
 
 </div>
 
